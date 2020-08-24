@@ -2,7 +2,7 @@
   "name": "deploypaage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "slooock.github.io",
+  "homepage": "http://kayque.com.br",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -12,10 +12,9 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "npm run build && gh-pages -d build",
     "start": "react-scripts start",
-    "build": "npm run build && gh-pages - build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

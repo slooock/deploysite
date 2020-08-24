@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/slooock.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/slooock.github.io/static/js/main.ca191d04.chunk.js",
-    "main.js.map": "/slooock.github.io/static/js/main.ca191d04.chunk.js.map",
-    "runtime-main.js": "/slooock.github.io/static/js/runtime-main.90d7ec0d.js",
-    "runtime-main.js.map": "/slooock.github.io/static/js/runtime-main.90d7ec0d.js.map",
-    "static/js/2.a98ca589.chunk.js": "/slooock.github.io/static/js/2.a98ca589.chunk.js",
-    "static/js/2.a98ca589.chunk.js.map": "/slooock.github.io/static/js/2.a98ca589.chunk.js.map",
-    "index.html": "/slooock.github.io/index.html",
-    "precache-manifest.42061eb9bf7da0dc205504f4478337e1.js": "/slooock.github.io/precache-manifest.42061eb9bf7da0dc205504f4478337e1.js",
-    "service-worker.js": "/slooock.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/slooock.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.a98ca589.chunk.js.LICENSE.txt": "/slooock.github.io/static/js/2.a98ca589.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/slooock.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/deploysite/static/css/main.5f361e03.chunk.css",
+    "main.js": "/deploysite/static/js/main.5c193d90.chunk.js",
+    "main.js.map": "/deploysite/static/js/main.5c193d90.chunk.js.map",
+    "runtime-main.js": "/deploysite/static/js/runtime-main.2470c346.js",
+    "runtime-main.js.map": "/deploysite/static/js/runtime-main.2470c346.js.map",
+    "static/js/2.a98ca589.chunk.js": "/deploysite/static/js/2.a98ca589.chunk.js",
+    "static/js/2.a98ca589.chunk.js.map": "/deploysite/static/js/2.a98ca589.chunk.js.map",
+    "index.html": "/deploysite/index.html",
+    "precache-manifest.cded01569a5bfb5ec16cdd73cb1ca16e.js": "/deploysite/precache-manifest.cded01569a5bfb5ec16cdd73cb1ca16e.js",
+    "service-worker.js": "/deploysite/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/deploysite/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a98ca589.chunk.js.LICENSE.txt": "/deploysite/static/js/2.a98ca589.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/deploysite/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.90d7ec0d.js",
+    "static/js/runtime-main.2470c346.js",
     "static/js/2.a98ca589.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ca191d04.chunk.js"
+    "static/js/main.5c193d90.chunk.js"
   ]
 }

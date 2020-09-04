@@ -12,7 +12,7 @@ export const Container = styled.div`
   span {
     width: 100%;
     max-width: 300px;
-    margin-top: 30px;
+    /* margin-top: 20px; */
     color: #fff;
     display: flex;
     justify-content: space-around;

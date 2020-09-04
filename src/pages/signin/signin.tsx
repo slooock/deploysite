@@ -1,6 +1,6 @@
 import React from 'react';
 import { GrTwitter } from 'react-icons/gr';
-import { AiOutlineLinkedin, AiFillGithub } from 'react-icons/ai';
+import { AiFillLinkedin, AiFillGithub, AiFillInstagram } from 'react-icons/ai';
 
 import logoImg from '../../asseets/logo.svg';
 
@@ -14,13 +14,16 @@ const SignIn: React.FC = () => (
     </a>
      <span>
        <a href="https://www.linkedin.com/in/slooock/">
-        <AiOutlineLinkedin size={50}/>
+        <AiFillLinkedin size={50}/>
+      </a>
+      <a href="https://github.com/slooock">
+        <AiFillGithub size={50}/>
       </a>
       <a href="https://twitter.com/SloooCk">
         <GrTwitter size={50}/>
       </a>
-      <a href="https://github.com/slooock">
-        <AiFillGithub size={50}/>
+      <a href="https://www.instagram.com/slooock/">
+        <AiFillInstagram size={50}/>
       </a>
      </span>
     </Container>
